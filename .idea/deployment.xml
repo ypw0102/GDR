@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wxl@114.115.247.127:40125 password" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="wxl@10.1.114.125:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wxl/Neural-Corpus-Indexer-NCI-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wxl@114.115.247.127:40125 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wxl/Neural-Corpus-Indexer-NCI-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wxl@114.115.247.127:40125 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wxl/Neural-Corpus-Indexer-NCI-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wxl@114.115.247.127:40125 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wxl/Neural-Corpus-Indexer-NCI-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
